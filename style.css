@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer components {
+    .con_1 {
+        @apply col-start-2 col-span-4;
+    }
+
+}
